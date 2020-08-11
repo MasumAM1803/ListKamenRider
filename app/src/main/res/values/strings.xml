@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListKamenRider</string>
+    <string name="about">About</string>
+    <string name="my_name">Ma\'sum Abdul Matin</string>
+    <string name="my_email">child.masum@gmail.com</string>
+    <string name="kamen_rider_name">Kamen Rider</string>
+    <string name="detail_kamen_rider">Detail Kamen Rider</string>
+    <string name="form">Form</string>
+    <string name="form_kamen_rider">Form Kamen Rider</string>
+    <string name="kamen_rider_actor">Shin Near</string>
+    <string name="actor">Actor</string>
+    <string name="played">Played</string>
+    <string name="kamen_rider_played">ShinNear</string>
+    <string name="kamen_rider_episode">49</string>
+</resources>
